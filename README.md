@@ -12,8 +12,7 @@ Welcome to the Inco Gods NFT Card Game, a blockchain-based card game developed o
 3. [Getting Started](#getting-started)
 4. [Game Mechanics](#game-mechanics)
 5. [Tokenomics](#tokenomics)
-6. [How to Contribute](#how-to-contribute)
-7. [License](#license)
+6. [License](#license)
 
 ## Smart Contract Overview
 
@@ -46,10 +45,6 @@ To get started with the Inco Gods NFT Card Game, follow these steps:
 ## Tokenomics
 
 The game utilizes an ERC-1155 token standard. Each token represents a unique NFT card with distinct attributes. The total supply is dynamically managed based on player interactions.
-
-## How to Contribute
-
-If you're interested in contributing to the Inco Gods NFT Card Game, feel free to fork the repository, make your changes, and submit a pull request. Contributions are welcome in various forms, including bug fixes, new features, and documentation improvements.
 
 ## License
 
